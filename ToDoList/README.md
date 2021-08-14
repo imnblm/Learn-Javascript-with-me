@@ -58,4 +58,8 @@ The DOM is not part of Js, but is instead a Web API used to build websites. Java
 </details>
 
 ## Resources 
+* [Youtube : Beginner Vanilla Javascript Project Tutorial - Dev Ed](https://youtu.be/Ttf3CEsEwMQ)
+* [w3schools](https://www.w3schools.com/js/js_htmldom_document.asp)
+* [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+
 ## Special thanks 
