@@ -1,4 +1,4 @@
-# Let's learn Javascript together, shall we ?
+b# Let's learn Javascript together, shall we ?
 > This repository is all about my learning journey to Javascript by the time I'm growing into the Js community. 
 
 ## Introduction 
@@ -7,7 +7,10 @@ To me, the most effective way to learn any language is to build projects. In thi
 ## The fundamentals
 > This chapter gather all the projects I've made to consolidate what I've learn using different ressources. 
 
-### Ressources used :
+#### Ressources used :
+* [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)</br>
+* Youtube 
+
 
 
 
