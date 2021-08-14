@@ -8,8 +8,11 @@ To me, the most effective way to learn any language is to build projects. In thi
 > This chapter gather all the projects I've made to consolidate what I've learn using different ressources. 
 
 #### Ressources used :
-* [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)</br>
+* [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 * Youtube 
+
+#### Projects :
+* [To-do List](https://github.com/imnblm/Learn-Javascript-with-me/tree/main/ToDoList)
 
 
 
