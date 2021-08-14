@@ -35,6 +35,7 @@ The DOM is not part of Js, but is instead a Web API used to build websites. Java
 | *element*.innerHTML =  *new html content* | Change the inner HTML of an element |
 | *element*.attribute = *new value* | Change the attribute value of an HTML element |
 | *element*.style.*property* = *new style*	| Change the style of an HTML element |
+
 | Method  | Description |
 | ------------- | ------------- |
 | *element*.setAttribute(*attribute,value*) | Change the attribute value of an HTML element |
