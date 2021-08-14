@@ -39,13 +39,5 @@ The DOM is not part of Js, but is instead a Web API used to build websites. Java
 
 </details>
 
-
-
-The `document` object represents your web page. If you want to access any element in an HTLM page, you always start with accessing the document object. 
-* `.createElement()` : create any html element
-* `.classList()` : add a class to any element
-* `.innerText()`
-* `.innerHTML()`
-* `.appendChild()`
 ## Resources 
 ## Special thanks 
