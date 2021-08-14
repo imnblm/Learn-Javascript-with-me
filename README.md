@@ -8,7 +8,7 @@
 In this repository, you'll fine a bunch of small projects from beginner to advanced level. Each folder contain a project with a `README` file attached to it, summing-up each concepts I covered during the project. 
 
 ## The fundamentals
-> This chapter gather all the projects I've made to consolidate what I've learn using different resources. 
+> This chapter gather all the projects I've made to consolidate what I've learnt using different resources. 
 
 #### Resources :
 * [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
