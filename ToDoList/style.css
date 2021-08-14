@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300&display=swap');
+
 /* removing all the default styling set */
 *{
     margin: 0;
@@ -45,3 +46,27 @@ form button:hover{
     color: white;
 
 }
+
+.todo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.todo-list{
+    min-width: 30%;
+    list-style: none; /* remove the dot of listing elements */
+}
+
+.todo {
+    margin: 0.5rem;
+    background: white;
+    color: black;
+    font-size: 1.5rem;
+    display: flex; /* All items sit next to each others*/
+    justify-content: space-between; /* first element and last element are pushed to extreme and space evenly distributed in between*/
+
+
+}
+
