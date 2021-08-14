@@ -16,6 +16,10 @@ function addTodo(event){
     // Create LI
     const newToDo = document.createElement('li');
     newToDo.innerText = 'hey';
+    newToDo.classList.add('todo-item');
+    todoDiv.appendChild(newToDo); // putting the todo item in the div
+    // Creation CHECK MARK BUTTON
+    const completedButton = document.createElement('button')
 
     
 }
