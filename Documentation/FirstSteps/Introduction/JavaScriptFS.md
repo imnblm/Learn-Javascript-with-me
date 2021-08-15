@@ -65,3 +65,7 @@ A web page with no dynamically updating content is referred to as **static** it 
 
 ##### How do you add JavaScript to your page ? 
 JavaScript is applied to your HTML page in a similar manner to CSS. Whereas CSS uses `<link>` elements to apply external stylesheets and `<style>` element to apply internal stylesheets to HTML, JavaScript only need one friend in the world of HTML, the `<script>` element. 
+###### Internal JavaScript 
+Add the `<script></script>` element in the `<head></head>` element. 
+###### External JavaScript 
+Add the `<script src="" defer></script>` element in the `<head></head>` element, `src=""` nest the path to the .js file. 
